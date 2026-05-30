@@ -1,4 +1,4 @@
-# Study Schedule AI Agent 📚
+# Study Schedule AI Agent 
 
 An intelligent agent built with LangChain and Streamlit to assist students in querying their academic schedules and exam dates.
 
